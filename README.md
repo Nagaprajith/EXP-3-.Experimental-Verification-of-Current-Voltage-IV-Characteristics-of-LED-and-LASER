@@ -54,7 +54,7 @@ V. This is the electrical power supplied to the LED. Data sheets for the LED spe
 ~~~
 
 ## 📊 TABULATION
-LED Forward Characteristics
+#### LED Forward Characteristics
 ![WhatsApp Image 2025-11-16 at 14 56 07_8d00a0a9](https://github.com/user-attachments/assets/ccac32e3-2100-4d2a-b25d-0d92a787d3ec)
 
 |Forward Voltage Vf (V)	|Forward Current If (mA)|
@@ -66,12 +66,35 @@ LED Forward Characteristics
 |        1.50           |         0.86          |
 |        1.51           |         1.20          |
 
+#### LASER Characteristics:
+![WhatsApp Image 2025-11-25 at 13 05 43_038d2d7e](https://github.com/user-attachments/assets/7c79eea7-be15-49e3-83a5-cd965f7110b1)
+
+| Forward Voltage Vf (V) | Forward Current If (mA) |
+|------------------------|--------------------------|
+| 1.60                   | 0.05                     |
+| 1.70                   | 0.08                     |
+| 1.75                   | 0.15                     |
+| 1.80                   | 0.40                     |
+| 1.85                   | 1.50                     |
+| 1.88                   | 4.90                     |
+| 1.90                   | 10.00                    |
+| 1.93                   | 22.00                    |
+| 1.95                   | 32.00                    |
+| 1.98                   | 48.00                    |
+| 2.00                   | 65.00                    |
+| 2.05                   | 95.00                    |
+| 2.10                   | 125.00                   |
+
+
 ## 📈 MODEL GRAPH
-(Insert graph of Vf vs If here)
-![WhatsApp Image 2025-11-16 at 14 56 14_86f823a0](https://github.com/user-attachments/assets/355414b1-7a6a-4f9a-9304-28cf22cc401e)
+
+#### LED Forward Characteristics
 ![WhatsApp Image 2025-11-16 at 14 56 29_0292b416](https://github.com/user-attachments/assets/4927077a-c0a8-4856-9294-0279a170f02b)
+
+#### LASER Characteristics:
+![WhatsApp Image 2025-11-25 at 13 05 44_d8f8f64a](https://github.com/user-attachments/assets/56a931e1-bf6f-4617-ab7f-ec9f86b3b2e7)
 
 
 ## ✅ RESULT
-The forward voltage and current characteristics of the fiber optic LED were successfully studied.
+The forward voltage and current characteristics of the fiber optic LED and LASER Characteristics were successfully studied.
 The photo detector response was observed and analyzed.
